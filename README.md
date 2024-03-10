@@ -11,5 +11,5 @@ Aktifkan Zygisk lalu install dengan Magisk v24.3+ dan reboot
 - Tested : ``Magisk Delta``  ``Magisk v24.3+`` ``KernelSU`` (Zygisk)
 
 
-# Traktir Kopi☕
-trakteer.id/itsgiru
+# Donate
+<a href="trakteer.id/itsgiru">Traktir Kopi☕</a>
