@@ -1,8 +1,7 @@
 # Unlimited Backup untuk Google Foto
   
 preview : 
-<img alt="DEMO" src="https://telegra.ph/file/d0528084b206606ef395b.jpg" width="330" height="330" />
-
+<img alt="DEMO" src="https://telegra.ph/file/d0528084b206606ef395b.jpg"/>
 # Usage
 
 Modul ini hanya dapat digunakan dengan Zygisk, tidak dapat digunakan dengan Riru, Shamiko, dan lain-lain !!!
@@ -12,4 +11,4 @@ Aktifkan Zygisk lalu install dengan Magisk v24.3+ dan reboot
 
 
 # Donate
-<a href="trakteer.id/itsgiru">Traktir Kopi☕</a>
+<a href="trakteer.id/itsgiru"><img alt="Traktir Kopi☕" src="https://trakteer-bedesk.s3.ap-southeast-1.amazonaws.com/storage/branding_media/lmWrnYB222t4UieTIowhHr44C1oDJkoSmtEVonF7.png">Traktir Kopi☕</a>
