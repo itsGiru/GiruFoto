@@ -1,6 +1,6 @@
 # Unlimited Backup untuk Google Foto
 <h3>Preview :</h3>
-<img alt="DEMO" src="https://telegra.ph/file/d0528084b206606ef395b.jpg" width="350" height="650"/>
+<img alt="DEMO" src="https://telegra.ph/file/4f465b83a56da2c382dad.png" width="350" height="650"/>
 
 # Usage
 Modul ini hanya dapat digunakan dengan Zygisk, tidak dapat digunakan dengan Riru, Shamiko, dan lain-lain !!!
